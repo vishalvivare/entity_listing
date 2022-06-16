@@ -1,0 +1,11 @@
+{
+    "products":[
+        {
+            "id": 1,
+            "prodName": "Galaxy M32",
+            "category": "smartphones",
+            "image": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-m325flbcins/gallery/in-galaxy-m32-6gb-ram-sm-m325flbcins-462257076?$1300_1038_PNG$",
+            "price": 13749
+        }
+    ]
+}
